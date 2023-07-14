@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anirudh-Arora
-- 👀 I’m interested in Sustainability and Alternate Energies
-- 🌱 I’m currently learning MATLAB and Python
+- 👀 I’m interested in Climate Science and Sustainability 
+- 🌱 I’m currently learning MATLAB, Python and NCL
 - 💞️ I’m looking to collaborate on Projects based on Python and HTML
 - 📫 How to reach me www.linkedin.com/in/anirudh-arora
 
